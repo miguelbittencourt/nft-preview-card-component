@@ -154,9 +154,16 @@ section h1:hover, section #card-creator p span:hover{
 
 
 
-@media(min-width: 350px){
+@media(min-width: 375px){
     section{
         width: 300px;
-        margin: 2rem 5rem;
+        margin: 2rem auto;
+    }
+}
+
+@media(max-width: 374px){
+    section{
+        width: 275px;
+        margin: 2rem auto;
     }
 }
