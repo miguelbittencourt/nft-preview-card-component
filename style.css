@@ -84,7 +84,7 @@ section .div-image div:hover{
 }
 
 section h1{
-    color: var(--white);
+    color: var(--soft-blue);
     font-weight: 600;
     padding-bottom: 1rem;
 }
