@@ -161,7 +161,7 @@ section h1:hover, section #card-creator p span:hover{
     }
 }
 
-@media(min-width: 375px){
+@media(max-width: 375px){
     section{
         width: 280px;
         margin: 3rem auto;
